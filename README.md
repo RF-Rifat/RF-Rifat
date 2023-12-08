@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rf-rifat&show_icons=true&locale=en" alt="rf-rifat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rf-rifat&" alt="rf-rifat" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rf-rifat&" alt="rf-rifat" /></p>
