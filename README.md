@@ -1,54 +1,65 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://i.ibb.co/wMYNWd8/Navy-Blue-Futuristic-Virtual-Technology-Banner.gif" alt="Coding" width="100%" height="80%">
+<div align="center">
+  <img src="https://github.com/RF-Rifat/Jwt-Token/blob/main/car-doctor-client-crud-main/public/Navy%20Blue%20Futuristic%20Virtual%20Technology%20Banner.gif?raw=true" alt="Coding" width="100%" height="80%">
 </div>
 
-# 👋 Hello, I'm Rifat!
+# 👋 Hello, I'm Rifadul Islam!
 
 ## 🌟 Junior Frontend Developer | Passionate about learning | React Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rf-rifat&label=Profile%20views&color=0e75b6&style=flat" alt="rf-rifat" /> </p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=rf-rifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-- 🔭 I’m currently working on **React Base Project**
-- 🌱 I’m currently learning **React**
-- 👨‍💻 All of my projects are available at [https://rf-rifat.github.io/Portfolio/](https://rf-rifat.github.io/Portfolio/)
+## About Me
+
+- 👨‍💻 Junior Frontend Developer
+- 🔭 Currently working on **React Base Project**
+- 🌱 Learning and exploring **React**
 - 💬 Ask me about **JavaScript, React**
-- 📫 How to reach me: [rfrifat6344@gmail.com](mailto:rfrifat6344@gmail.com)
+- 📫 Reach me at [rfrifat6344@gmail.com](mailto:rfrifat6344@gmail.com)
+- 🌐 Explore my projects on [Portfolio](https://rf-rifat.github.io/Portfolio/)
 
-## Connect with me:
+## Connect with Me
 
-<p align="left">
-  <a href="https://fb.com/https://www.facebook.com/rfrifat6344/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rfrifat6344/" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discord.gg/yzwVUXuv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yzwVUXuv" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/rfrifat6344/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/yzwVUXuv" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</div>
 
-## Languages and Tools:
+## Languages and Tools
 
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rf-rifat&show_icons=true&locale=en&layout=compact" alt="rf-rifat" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rf-rifat&show_icons=true&locale=en" alt="rf-rifat" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rf-rifat&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rf-rifat&" alt="rf-rifat" /></p>
+## GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rf-rifat&theme=github-dark" alt="GitHub Streak" />
+</div>
+
+## GitHub Summary
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rf-rifat&theme=github_dark" alt="GitHub Pie Chart" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RF-Rifat&theme=github_dark" alt="GitHub Line Chart" />
+</div>
