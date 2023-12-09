@@ -14,10 +14,11 @@
 
 - 👨‍💻 Junior Frontend Developer
 - 🔭 Currently working on **React Base Project**
-- 🌱 Learning and exploring **React**
+- 🌱 Learning and exploring **React, Mongoose, Next.js**
 - 💬 Ask me about **JavaScript, React**
 - 📫 Reach me at [rfrifat6344@gmail.com](mailto:rfrifat6344@gmail.com)
 - 🌐 Explore my projects on [Portfolio](https://rf-rifat.github.io/Portfolio/)
+
 
 ## Connect with Me
 
@@ -30,6 +31,9 @@
   </a>
   <a href="https://discord.gg/yzwVUXuv" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
