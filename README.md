@@ -52,6 +52,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</div> <br/>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rf-rifat&theme=github_dark" alt="GitHub Pie Chart" />
 </div>
 
 ## GitHub Stats
@@ -68,7 +71,10 @@
 
 ## GitHub Summary
 
+<a href="https://github.com/RF-Rifat">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rf-rifat&theme=custom-dark&color=39D353&bg_color=000000&line=39D353" />
+</a>
+<br/> <br/> <br/>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rf-rifat&theme=github_dark" alt="GitHub Pie Chart" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RF-Rifat&theme=github_dark" alt="GitHub Line Chart" />
 </div>
