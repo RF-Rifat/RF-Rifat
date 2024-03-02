@@ -17,7 +17,7 @@
 - 🌱 Learning and exploring **React, Mongoose, Next.js**
 - 💬 Ask me about **JavaScript, React**
 - 📫 Reach me at [rfrifat6344@gmail.com](mailto:rfrifat6344@gmail.com)
-- 🌐 Explore my projects on [Portfolio](https://rf-rifat.github.io/Portfolio/)
+- 🌐 Explore my projects on [Portfolio](https://my-portfolio-ecru-zeta-29.vercel.app/)
 
 
 ## Connect with Me
