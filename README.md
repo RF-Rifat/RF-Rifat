@@ -23,7 +23,7 @@
 ## Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rifadul-islam-rifad/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/rfrifat6344/" target="_blank">
