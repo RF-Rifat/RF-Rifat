@@ -29,7 +29,7 @@
   <a href="https://www.facebook.com/rfrifat6344/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/yzwVUXuv" target="_blank">
+  <a href="https://discord.gg/Gp2FztpGEJ" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
   <a href="https://wa.me/01770703939" target="_blank">
